@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/shrvya-shetty/resume-website?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/shrvya-shetty/resume-website?style=social)
 
-A simple yet elegant resume website template created using HTML and CSS. This project helps individuals create their online resume/portfolio websites quickly and efficiently.
+A simple yet elegant resume website template created using HTML and CSS. This project helps individuals create,  their online resume/portfolio websites quickly and efficiently.
 Now this website provide a demo about my skills,project,grades so treat this as a demo and add your data .
 
 ## Features
